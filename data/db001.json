@@ -7,7 +7,7 @@
     "item_children": [
       {
         "child_name": "休闲小屋",
-        "img_src": "https://cdn.glitch.global/efdace30-a873-49c7-aaa9-4fa31679ee0c/thumbnails%2F%E5%9B%BE%E6%A0%8701.jpg?1692046715299",
+        "img_src": "./img/wszx001.jpg",
         "a_href": "https://boke.199881.xyz/",
         "child_desc": "只是一个休闲小屋！许多好东西记不住，挂上自用而已，基本都是转载的，没太多自己的。"
       },
