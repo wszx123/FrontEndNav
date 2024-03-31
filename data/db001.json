@@ -17,7 +17,7 @@
   },
   {
     "Category_id": "apiDoc",
-    "category_CN": "影视资源",
+    "category_CN": "影视",
     "category_icon": "icon-icon_bangzhuwendang",
     "category_item": "apiDocItem",
     "item_children": [
@@ -33,7 +33,7 @@
   },
   {
     "Category_id": "portalsCommunity",
-    "category_CN": "工具资源",
+    "category_CN": "工具",
     "category_icon": "icon-songmenhuwangzhan",
     "category_item": "portalsCommunityItem",
     "item_children": [
@@ -49,7 +49,7 @@
   },
   {
     "Category_id": "organization",
-    "category_CN": "音乐资源",
+    "category_CN": "音乐",
     "category_icon": "icon-zuzhi",
     "category_item": "organizationItem",
     "item_children": [
@@ -65,7 +65,7 @@
   },
   {
     "Category_id": "framework",
-    "category_CN": "论坛资源",
+    "category_CN": "论坛",
     "category_icon": "icon-iframetianjia",
     "category_item": "frameworkItem",
     "item_children": [
