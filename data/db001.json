@@ -555,96 +555,54 @@
       }
     ]
   },
+
+
   {
     "Category_id": "environment",
     "category_CN": "其它12",
     "category_icon": "icon-aixin",
     "category_item": "environmentItem",
     "item_children": [
-      {
-        "child_name": "VS Code",
-        "img_src": "./img/vscode.png",
-        "a_href": "https://code.visualstudio.com/",
-        "child_desc": "这个不多说，个人开发编辑器"
-      },
-      {
-        "child_name": "Node.js",
-        "img_src": "./img/nodeapp.png",
-        "a_href": "http://nodejs.cn/download/",
-        "child_desc": "JavaScript 运行环境"
-      },
-      {
-        "child_name": "Git",
-        "img_src": "./img/git.png",
-        "a_href": "https://git-scm.com/",
-        "child_desc": "版本控制工具"
-      },
-      {
-        "child_name": "NVM",
-        "img_src": "./img/nvm.png",
-        "a_href": "https://github.com/coreybutler/nvm-windows",
-        "child_desc": "nvm (Node Version Manager) 是Nodejs版本管理器，可对不同的node版本快速进行切换。"
-      },
-      {
-        "child_name": "Cmder",
-        "img_src": "./img/cmder.png",
-        "a_href": "https://cmder.net/",
-        "child_desc": "cmder是一个增强型命令工具，通过它可以使用Windows下的所有命令，可以使你像操作Linux一样操作Windows，是一个值得我们拥有的高逼格软件。"
-      },
-      {
-        "child_name": "马克鳗",
-        "img_src": "./img/markman.png",
-        "a_href": "http://www.getmarkman.com/",
-        "child_desc": "高效的设计稿标注、测量工具"
-      },
-      {
-        "child_name": "PxCook",
-        "img_src": "./img/pxcook.png",
-        "a_href": "https://www.fancynode.com.cn/pxcook",
-        "child_desc": "高效易用的自动标注工具, 生成前端代码"
-      },
-      {
-        "child_name": "Bandizip",
-        "img_src": "./img/bandizip.png",
-        "a_href": "http://www.bandizip.com/",
-        "child_desc": "个人最满意的压缩工具，没有之一"
-      },
-      {
-        "child_name": "Typora",
-        "img_src": "./img/typora.png",
-        "a_href": "https://www.typora.io/",
-        "child_desc": "一个适合新手的md编辑器，很好用"
-      },
-      {
-        "child_name": "ScreenToGif",
-        "img_src": "./img/ScreenToGif.png",
-        "a_href": "https://www.screentogif.com/?l=zh_cn",
-        "child_desc": "非常好用的gif生成器"
-      },
-      {
-        "child_name": "Fences",
-        "img_src": "./img/fences.png",
-        "a_href": "https://www.stardock.com/products/fences/",
-        "child_desc": "最好的桌面整理软件"
-      },
-      {
-        "child_name": "Everything",
-        "img_src": "./img/Everything.png",
-        "a_href": "https://www.voidtools.com/zh-cn/",
-        "child_desc": "快速定位本地资源文件"
-      },
-      {
-        "child_name": "Listary",
-        "img_src": "./img/listary.png",
-        "a_href": "https://www.listary.com/",
-        "child_desc": "文件名定位/搜索辅助软件"
-      },
-      {
-        "child_name": "Snipaste",
-        "img_src": "./img/snipaste.png",
-        "a_href": "https://www.snipaste.com/",
-        "child_desc": "最好用的截图软件，没有之一"
-      }
-    ]
-  }
+{"child_name": "休闲小屋","img_src": "./img/wszx001.jpg","a_href": "https://boke.199881.xyz/","child_desc": "wszx导航推荐网站"},
+{"child_name": "wszx博客","img_src": "./img/wszx001.jpg","a_href": "https://blog.199881.xyz","child_desc": "wszx导航推荐网站"},
+{"child_name": "今日头条","img_src": "./img/wszx001.jpg","a_href": "https://www.toutiao.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "好 123","img_src": "./img/wszx001.jpg","a_href": "https://www.hao123.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "热        榜","img_src": "./img/wszx001.jpg","a_href": "https://hot.imsyy.top/","child_desc": "wszx导航推荐网站"},
+{"child_name": "网易163","img_src": "./img/wszx001.jpg","a_href": "https://www.163.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "工        具","img_src": "./img/wszx001.jpg","a_href": "https://tool.lu/","child_desc": "wszx导航推荐网站"},
+{"child_name": "在线工具","img_src": "./img/wszx001.jpg","a_href": "https://tool.cn88.link/","child_desc": "wszx导航推荐网站"}
+]
+    "Category_id": "environment",
+    "category_CN": "其它13",
+    "category_icon": "icon-aixin",
+    "category_item": "environmentItem",
+    "item_children": [
+{"child_name": "休闲小屋","img_src": "./img/wszx001.jpg","a_href": "https://boke.199881.xyz/","child_desc": "wszx导航推荐网站"},
+{"child_name": "wszx博客","img_src": "./img/wszx001.jpg","a_href": "https://blog.199881.xyz","child_desc": "wszx导航推荐网站"},
+{"child_name": "今日头条","img_src": "./img/wszx001.jpg","a_href": "https://www.toutiao.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "好 123","img_src": "./img/wszx001.jpg","a_href": "https://www.hao123.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "热        榜","img_src": "./img/wszx001.jpg","a_href": "https://hot.imsyy.top/","child_desc": "wszx导航推荐网站"},
+{"child_name": "网易163","img_src": "./img/wszx001.jpg","a_href": "https://www.163.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "工        具","img_src": "./img/wszx001.jpg","a_href": "https://tool.lu/","child_desc": "wszx导航推荐网站"},
+{"child_name": "在线工具","img_src": "./img/wszx001.jpg","a_href": "https://tool.cn88.link/","child_desc": "wszx导航推荐网站"}
+]
+    "Category_id": "environment",
+    "category_CN": "其它14",
+    "category_icon": "icon-aixin",
+    "category_item": "environmentItem",
+    "item_children": [
+{"child_name": "休闲小屋","img_src": "./img/wszx001.jpg","a_href": "https://boke.199881.xyz/","child_desc": "wszx导航推荐网站"},
+{"child_name": "wszx博客","img_src": "./img/wszx001.jpg","a_href": "https://blog.199881.xyz","child_desc": "wszx导航推荐网站"},
+{"child_name": "今日头条","img_src": "./img/wszx001.jpg","a_href": "https://www.toutiao.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "好 123","img_src": "./img/wszx001.jpg","a_href": "https://www.hao123.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "热        榜","img_src": "./img/wszx001.jpg","a_href": "https://hot.imsyy.top/","child_desc": "wszx导航推荐网站"},
+{"child_name": "网易163","img_src": "./img/wszx001.jpg","a_href": "https://www.163.com/","child_desc": "wszx导航推荐网站"},
+{"child_name": "工        具","img_src": "./img/wszx001.jpg","a_href": "https://tool.lu/","child_desc": "wszx导航推荐网站"},
+{"child_name": "在线工具","img_src": "./img/wszx001.jpg","a_href": "https://tool.cn88.link/","child_desc": "wszx导航推荐网站"}
+]
+
+
+}
+
+
 ]
