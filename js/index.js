@@ -38,7 +38,7 @@ $(function () {
 
   // ============================数据请求业务==============================
   $.getJSON(
-    'https://raw.githubusercontent.com/Hulkye/FrontEndNav/master/data/db.json',
+    'https://raw.githubusercontent.com/wszx123/FrontEndNav/master/data/db001.json',
     res => {
       // 页面渲染
       var categoryHTML = template('CategoryId', {
