@@ -56,7 +56,7 @@ $(function () {
     //         $("#mainContent").html(navItemHTML);
     //     }
     // });
-    $.getJSON("https://raw.githubusercontent.com/Hulkye/FrontEndNav/master/data/db.json", (res)=>{
+    $.getJSON("https://raw.githubusercontent.com/wszx123/FrontEndNav/master/data/db001.json", (res)=>{
             var categoryHTML = template("CategoryId",{list:res});
             var navItemHTML = template("navItemId",{list:res});
             $('#category > ul').html(categoryHTML);
