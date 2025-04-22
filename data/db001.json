@@ -1,9 +1,9 @@
 [
     {
     "Category_id": "baseLearn",
+        "category_CN": "常用",
     "category_icon": "icon-xuexi",
     "category_item": "baseLearnItem",
-        "category_CN": "常用",
         "item_children": [
             {
                 "a_href": "https:\/\/boke.199881.xyz\/",
@@ -165,9 +165,9 @@
     },
     {
     "Category_id": "apiDoc",
+        "category_CN": "AI",
     "category_icon": "icon-icon_bangzhuwendang",
     "category_item": "apiDocItem",
-        "category_CN": "AI",
         "item_children": [
             {
                 "a_href": "https:\/\/freegpt.199881.xyz\/",
@@ -257,9 +257,9 @@
     },
     {
     "Category_id": "portalsCommunity",
+        "category_CN": "CF",
     "category_icon": "icon-songmenhuwangzhan",
     "category_item": "portalsCommunityItem",
-        "category_CN": "CF",
         "item_children": [
             {
                 "a_href": "https:\/\/www.199881.xyz\/",
@@ -397,9 +397,9 @@
     },
     {
     "Category_id": "organization",
+        "category_CN": "工具",
     "category_icon": "icon-zuzhi",
     "category_item": "organizationItem",
-        "category_CN": "工具",
         "item_children": [
             {
                 "a_href": "https:\/\/c.runoob.com\/",
