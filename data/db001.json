@@ -2530,7 +2530,7 @@
     },
   {
     "Category_id": "miniProgram",
-    "category_CN": "其它4",
+    "category_CN": "其它1",
     "category_icon": "icon-xiaochengxu1",
     "category_item": "miniProgramItem",
     "item_children": [
@@ -2545,7 +2545,7 @@
     ]},
   {
     "Category_id": "blog",
-    "category_CN": "其它5",
+    "category_CN": "其它2",
     "category_icon": "icon-fanshe",
     "category_item": "blogItem",
     "item_children": [
@@ -2560,7 +2560,7 @@
     ]},
   {
     "Category_id": "chrome",
-    "category_CN": "其它6",
+    "category_CN": "其它3",
     "category_icon": "icon-iconset0284",
     "category_item": "chromeItem",
     "item_children": [
@@ -2576,7 +2576,7 @@
     ]},
   {
     "Category_id": "aidedDevTools",
-    "category_CN": "其它7",
+    "category_CN": "其它4",
     "category_icon": "icon-hebingxingzhuang-",
     "category_item": "aidedDevToolsItem",
     "item_children": [
@@ -2591,7 +2591,7 @@
     ]},
   {
     "Category_id": "otherTools",
-    "category_CN": " 其他8",
+    "category_CN": " 其他5",
     "category_icon": "icon-gongju1",
     "category_item": "otherToolsItem",
     "item_children": [
@@ -2701,7 +2701,7 @@
   },
   {
     "Category_id": "conference",
-    "category_CN": "其它9",
+    "category_CN": "其它6",
     "category_icon": "icon-shequjiaozhengju",
     "category_item": "conferenceItem",
     "item_children": [
@@ -2731,7 +2731,7 @@
     ]},
   {
     "Category_id": "someWebsite",
-    "category_CN": "其它11",
+    "category_CN": "其它7",
     "category_icon": "icon-wangzhanguanli",
     "category_item": "someWebsiteItem",
     "item_children": [
@@ -2746,7 +2746,7 @@
     ]},
   {
     "Category_id": "environment",
-    "category_CN": "其它12",
+    "category_CN": "其它8",
     "category_icon": "icon-aixin",
     "category_item": "environmentItem",
     "item_children": [
